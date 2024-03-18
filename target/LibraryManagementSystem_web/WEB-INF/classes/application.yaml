@@ -1,0 +1,6 @@
+host: "Administrator"
+port: "1433"
+user: "sa"
+password: "zgc112912"
+db: "LibraryManagementSystem"
+type: "sqlserver"
